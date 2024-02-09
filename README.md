@@ -11,3 +11,6 @@ Train Service:
 a schedule/timetable for a particular train running on a given train line. 
 For example, the 11:32 train on the Wellington_Johnsonville line that leaves Wellington station at 11:32, leaves CroftonDowns at 11:40, ... gets in to Johnsonville at 11:55. 
 A Train Service is specified by a sequence of times - the time that the train leaves the first station, followed by the times that the train gets to each of the remaining stations on the line. Note that some train services don't stop at every station on the line. If a train doesn't stop at a station, the corresponding time will be -1.
+
+![image](https://github.com/JohnnyYuan93/WellingtonTrain/assets/77047081/d5ba979f-3424-417c-a63d-aa3a5a3fd813)
+
